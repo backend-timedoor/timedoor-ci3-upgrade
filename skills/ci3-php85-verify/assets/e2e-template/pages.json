@@ -1,0 +1,5 @@
+[
+  { "url": "/", "status": 200 },
+  { "url": "/this-page-does-not-exist", "status": 404 },
+  { "url": "/admin", "auth": "admin" }
+]

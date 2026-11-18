@@ -1,0 +1,10 @@
+{
+  "name": "ci3-upgrade",
+  "version": "0.0.1",
+  "description": "Upgrade CodeIgniter 3 apps to PHP 8.5: audit, patched CI 3.1.13 system/, Dompdf/PHPMailer upgrades, smoke tests and deploy doc.",
+  "author": {
+    "name": "Timedoor Engineering"
+  },
+  "license": "MIT",
+  "keywords": ["codeigniter", "codeigniter3", "php", "php85", "upgrade", "migration"]
+}
